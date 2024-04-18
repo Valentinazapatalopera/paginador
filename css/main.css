@@ -1,0 +1,18 @@
+#teclado{
+    background-color: antiquewhite;
+    width: 300px;
+    height: 290px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid darkkhaki;
+
+}
+
+.tecla{
+    width: 95px;
+    height: 95px;
+    background-color: blueviolet;
+    margin: 1px;
+    border: 0;
+    border-radius: 10px;
+}
